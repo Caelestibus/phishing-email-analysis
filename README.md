@@ -1,6 +1,6 @@
 ### phishing-email-analysis
 
-This project details the step by step process of analysising an email, that is suspected to be a phishing mail. Most of the attacks launched by cyber criminal are through phishing, irrespective of the extended education of individuals on what a phishing email looks like and it's respective characteristics, having a safe system to check makes it easier and faster to explore.
+This project details the step by step process of analysing an email, that is suspected to be a phishing mail. Most of the attacks launched by cyber criminal are through phishing, irrespective of the extended education of individuals on what a phishing email looks like and it's respective characteristics, having a safe system to check makes it easier and faster to detect.
 
 ---
 
