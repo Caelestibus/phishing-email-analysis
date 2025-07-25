@@ -40,7 +40,7 @@ sudo apt install thunderbird -y
 
 ---
 
-#### 4. Change directory to Phishing_pot and access the emails listed
+#### 4. Change directory to _Phishing_pot_ and access the emails listed
 
 ```bash
 cd phishing_pot && cd email
@@ -64,7 +64,12 @@ thunderbird sample-272.eml
 
 ---
 
-#### 7. Copy the url when you copy the suspected mail and scan using "https://www.virustotal.com/gui/home/url"
+#### 7. Copy and scan the url using 
+
+```
+https://www.virustotal.com/gui/home/url
+
+```
 
 
 ---
